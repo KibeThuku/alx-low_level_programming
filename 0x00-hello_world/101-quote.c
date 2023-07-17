@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <unistd.h>
 
-/*
-*main - this is the main function body
-*
-*Return: Always 1 (Success)
-*/
+/**
+ * main - main function
+ *
+ * Return: 0 always
+ */
+
 int main(void)
 {
 	write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);

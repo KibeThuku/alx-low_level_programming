@@ -9,7 +9,7 @@
 
 int main(void)
 {
-        int d;
+	int d;
         int p;
 	int q;
 

@@ -1,6 +1,5 @@
 
-/**
- * print_alphabet-main function
+/* print_alphabet-main function
  * print alphabet in lower case
  * return: 0 always
  */

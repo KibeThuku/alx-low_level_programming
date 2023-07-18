@@ -1,10 +1,9 @@
 /**
- * _isalpha-main function
- * @c:parameter to be checked 
- * returns 1
- * else return 0
+ * _isalpha:checks alphabet order
+ * @c:parameter to be checked
+ * return: 1 if else c is lowercase or uppercase
+ * return: 0 otherwise
  */
-
 #include "main.h"
 int _isalpha(int c)
 {

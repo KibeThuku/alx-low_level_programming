@@ -1,4 +1,5 @@
 /**
+ * void print_alphabet_x10-main function
  * void print_alphabet_x10(void)-main function
  * print 10 times the alphabet in lowercase
  * only use _putchar

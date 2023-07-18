@@ -1,6 +1,6 @@
 /**
- * _isalpha:checks alphabet order
- * @c:parameter to be checked
+ * _isalpha - checks for lowercase alphabet
+ * @c: parameter to be checked
  * return: 1 if else c is lowercase or uppercase
  * return: 0 otherwise
  */

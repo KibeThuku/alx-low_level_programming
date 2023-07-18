@@ -1,6 +1,6 @@
 /**
  * _islower-main function
- * @c-arguement
+ * @c: arguement to be checked
  * check for lower case characters
  * retuns: 1 if lowercase
  * returns:0 if otherwise

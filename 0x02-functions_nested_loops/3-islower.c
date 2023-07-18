@@ -1,5 +1,6 @@
 /**
- * int _islower(int c)-main function
+ *  _islower-main function
+ *  c-arguement
  * check for lower case characters
  * retuns: 1 if lowercase
  * returns:0 if otherwise

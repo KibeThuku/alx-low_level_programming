@@ -1,8 +1,7 @@
 /**
- * main - main function 
- *
+ * print_alphabet - main function 
  * print alphabet in lowercase
- *
+ * 
  * Return: Always 0.
  */
 

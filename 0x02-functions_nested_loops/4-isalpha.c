@@ -1,7 +1,7 @@
 /**
- * _isalpha - main function
- * _isalpha - checks for alphabetic order
- * 'c': is a lower case or upper case
+ * _isalpha-main function
+ * _isalpha-checks for alphabetic order
+ * @c: parameter to be checked 
  * returns 1
  * else return 0
  */

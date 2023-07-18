@@ -1,8 +1,8 @@
 /**
  * _isalpha - checks for lowercase alphabet
+ * _isalpha(int c) - main function
  * @c: parameter to be checked
- * return: 1 if else c is lowercase or uppercase
- * return: 0 otherwise
+ * return: 1 if else c is lowercase or uppercase 0 otherwise
  */
 #include "main.h"
 int _isalpha(int c)

@@ -1,5 +1,5 @@
 /**
- * add-adds two integers
+ * @add: adds two integers
  * @x: number being added
  * @y: number being added
  * return: 0 always

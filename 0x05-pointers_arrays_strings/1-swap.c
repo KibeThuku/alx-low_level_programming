@@ -3,14 +3,18 @@
 /**
  * swap_int - function is used to swap numbers
  *
- * @a: input integer
- * @b: input integer
+ * @a: input integer 1
+ * @b: input integer 2
+ * @c: swapping integer
  *
  * Return: 0 always
  */
 
 void swap_int(int *a, int *b)
 {
-	*a = 42;
-	*b = 98;
+	int c;
+
+	c = *a;
+	*a = *b;
+	*b = c;
 }

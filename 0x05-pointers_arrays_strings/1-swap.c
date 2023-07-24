@@ -5,8 +5,6 @@
  *
  * @a: input integer 1
  * @b: input integer 2
- * @c: swapping integer
- *
  * Return: 0 always
  */
 

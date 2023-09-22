@@ -2,13 +2,11 @@
 
 /**
  * TASK 1. UNDER THE SNOW - 1-create_file.c
- *
- * @create_file - integer function creating a file.
- * (const char *filename, char *text_content) - Function arguement. 
+ * create_file:integer function creating a file. 
  * @filename: Pointer pointing to a character file to be created.
- * @text_content - pointer pointing to string characters 
+ * @text_content: pointer pointing to string characters 
  * to be written to the file.
- * Return:1 on success, -1 on failure 
+ * Return:On success 1, On failure -1
  * (file can not be created, file can not be written, write “fails”, etc)
  */
 
